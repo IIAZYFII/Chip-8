@@ -1,5 +1,5 @@
 # Chip-8
-A Chip 8 emulator
+A Chip 8 emulator.
 This Chip 8 emulator was built using Austin Morlan's Guide.
 https://austinmorlan.com/posts/chip8_emulator/
 Most things remain the same however there are some major differences such as using a switch statement instead of a function pointer table
